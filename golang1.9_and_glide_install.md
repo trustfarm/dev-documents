@@ -16,7 +16,7 @@ $ cp -rp go /usr/lib/go-1.9.2
 
 ```
 전체 적용을 위해서.
-/etc/profile/goenv.sh  파일 생성.
+/etc/profile.d/goenv.sh  파일 생성.
 
 ```
 #!/bin/sh
