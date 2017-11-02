@@ -67,6 +67,7 @@ sudo apt-get install glide
 
 또는 
 
+```
 wget https://github.com/Masterminds/glide/releases/download/v0.13.0/glide-v0.13.0-linux-amd64.tar.gz
 
 tar xvzf glide-v0.13.0-linux-amd64.tar.gz
