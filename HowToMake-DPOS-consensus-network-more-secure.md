@@ -1,4 +1,5 @@
 article #1 :  https://trustcoinmining.com/bbs/board.php?bo_table=pds&wr_id=3
+
 article #2 :  https://steemit.com/kr/@trustfarm/dpos-consensus 
  
 
