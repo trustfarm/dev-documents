@@ -1,3 +1,7 @@
+article #1 :  https://trustcoinmining.com/bbs/board.php?bo_table=pds&wr_id=3
+article #2 :  https://steemit.com/kr/@trustfarm/dpos-consensus 
+ 
+
 # DPOS 네트워크 보안리스크를 완화하고 중앙화를 막는 consensus 개선방안
 
 
@@ -86,3 +90,7 @@ This means equal opportunity, but also means that if the network situation is ph
 * 1) Through the diversifying and decentralization of DPOS validator nodes, the security of the blockchain network itself will be more secure.
 * 2) Ensure that unnecessary funds are not locked into the nodes, so that the Fund can provide liquidity to the exchanges and the fields to which they are actually applied application.
 * 3) Through the dispersion of funds, the participation of P2P will expanded and the activation and value of the blockchain are increased based on this.
+
+
+
+
